@@ -38,6 +38,8 @@ PANEL
 
 [![Deploy on BothHosting.net](https://img.shields.io/badge/Deploy%40on-https://bot-hosting.net/panel-blue?logo=google-cloud)](https://bothhosting.net/clients/cart.php?a=add&pid=1)
 
+![Repository Visits](https://komarev.com/ghpvc/?username=Victorkingb&repo=Queen-amy&style=flat-square&color=green)
+
 Want to invite Queen Amy to your WhatsApp palace? Follow these steps:
 
 #termux
