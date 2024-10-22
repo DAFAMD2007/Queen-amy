@@ -9,6 +9,8 @@
 Welcome to **Queen Amy**, your majestic WhatsApp bot, ready to rule your conversations! Whether you need help with tasks, answers to questions, or just a bit of entertainment, Queen Amy has you covered. Sit back, relax, and let her majesty handle everything.
 
 ---
+#fork repo
+[![Queen Amy](https://img.shields.io/badge/Queen%20Amy-WhatsApp%20Bot-brightgreen)](https://github.com/Victorkingb/Queen-amy)
 
 ## 🌟 Royal Features
 
