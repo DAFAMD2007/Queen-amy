@@ -10,7 +10,8 @@ Welcome to **Queen Amy**, your majestic WhatsApp bot, ready to rule your convers
 
 ---
 #fork repo
-[![Queen Amy](https://img.shields.io/badge/Queen%20Amy-WhatsApp%20Bot-brightgreen)](https://github.com/Victorkingb/Queen-amy)
+
+[![Queen Amy](https://img.shields.io/badge/Queen%40Amy-WhatsApp%20Bot-brightpink)](https://github.com/Victorkingb/Queen-amy)
 
 ## 🌟 Royal Features
 
