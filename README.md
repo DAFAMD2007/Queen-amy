@@ -26,6 +26,13 @@ Welcome to **Queen Amy**, your majestic WhatsApp bot, ready to rule your convers
 #REACH Me at
 https://wa.me/+254113660118?text=Hello+best+hacker+in+the+world+🙂+
 ## 🏰 Installation
+REPLIT
+
+[![Run on Replit](https://replit.com/badge/github/Victorkingb/Queen-amy)](https://replit.com/github/Victorkingb/Queen-amy)
+
+#railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Victorkingb/Queen-amy)
 
 Want to invite Queen Amy to your WhatsApp palace? Follow these steps:
 
