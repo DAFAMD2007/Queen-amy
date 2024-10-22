@@ -34,6 +34,10 @@ REPLIT
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Victorkingb/Queen-amy)
 
+PANEL
+
+[![Deploy on BothHosting.net](https://img.shields.io/badge/Deploy%20on-BothHosting.net-blue?logo=google-cloud)](https://bothhosting.net/clients/cart.php?a=add&pid=1)
+
 Want to invite Queen Amy to your WhatsApp palace? Follow these steps:
 
 #termux
