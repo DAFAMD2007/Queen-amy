@@ -28,6 +28,13 @@ https://wa.me/+254113660118?text=Hello+best+hacker+in+the+world+🙂+
 ## 🏰 Installation
 REPLIT
 
+<a href="https://replit.com/github/Victorkingb/Queen-amy" target="_blank">
+    <button style="background-color: #5865F2; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+        Pair with Queen Amy Bot on Replit
+    </button>
+</a>
+
+
 [![Run on Replit](https://replit.com/badge/github/Victorkingb/Queen-amy)](https://replit.com/github/Victorkingb/Queen-amy)
 
 #railway
