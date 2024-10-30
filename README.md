@@ -15,7 +15,7 @@ Welcome to **Queen Amy**, your majestic WhatsApp bot, ready to rule your convers
 
 ## 🌟 Royal Features
 
-- 🗣 **Graceful Conversations**: Queen Anita speaks your language and responds with elegance.
+- 🗣 **Graceful Conversations**: Queen Amy speaks your language and responds with elegance.
 - ⚡ **Swift Commands**: Quick replies to save you time and effort.
 - 📸 **Multimedia Support**: Share images, videos, and documents without lifting a finger.
 - 📅 **Task & Reminder Management**: Never forget an important event or task again.
