@@ -2,8 +2,8 @@ const fs = require('fs');
 const { color } = require('./lib/myfunc');
 
 // Owner Information
-global.owner = '1234567890';
-global.nomerowner = ["1234567890"];
+global.owner = '94724087485';
+global.nomerowner = ["94724087485"];
 
 // API Keys
 global.skizo = 'Queen Amy';
@@ -53,8 +53,8 @@ global.rpg = {
 };
 
 // Auto Features
-global.autoTyping = false;        // Enable auto typing when true
-global.autoRecord = false;        // Enable auto recording when true
+global.autoTyping = true ;        // Enable auto typing when true
+global.autoRecord = true ;        // Enable auto recording when true
 global.autoViewStatus = true;     // Enable viewing statuses when true
 global.unavailable = true;        // Show as unavailable when true
 global.available = false;         // Show as always online when true
@@ -63,7 +63,7 @@ global.chatbot = false;           // Enable chatbot when true
 global.autoreact = false;         // Auto react to messages when true
 
 // Community Settings
-global.welcome = false;           // Enable welcome messages when true
+global.welcome = true ;           // Enable welcome messages when true
 
 // General Configuration
 global.prefix = '/';              // Command prefix
